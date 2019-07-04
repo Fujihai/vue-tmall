@@ -1,0 +1,33 @@
+@import "mixins";
+
+.g- {
+  &container {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    max-width: 640px;
+    min-width: 320px;
+    height: 100%;
+    margin: 0 auto;
+  }
+
+  &view-container {
+    height: 100%;
+  }
+
+  &header-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: $navbar-z-index;
+    width: 100%;
+  }
+
+  &backtop-container {
+    position: absolute;
+    z-index: $backtop-z-index;
+    right: 10px;
+    bottom: 10px;
+  }
+
+}
