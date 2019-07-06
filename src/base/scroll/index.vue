@@ -1,5 +1,5 @@
 <template>
-  <swiper :options="swiperOption">
+  <swiper :options="swiperOption" ref="swiper">
     <swiper-slide>
       <slot></slot>
     </swiper-slide>
@@ -20,6 +20,9 @@
       scrollbar: {
         type: Boolean,
         default: true
+      },
+      data: {
+        type: [Array, Object]
       }
     },
     data() {
@@ -35,6 +38,17 @@
           }
         }
       };
+    },
+    watch: {
+      data() {
+        this.update();
+      }
+    },
+    methods: {
+      update() {
+        // console.log(this.$refs.swiper);
+        this.$refs.swiper && this.$refs.swiper.swiper.update();
+      }
     }
   };
 </script>

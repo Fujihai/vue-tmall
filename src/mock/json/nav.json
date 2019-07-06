@@ -1,0 +1,30 @@
+{
+  "code": 0,
+  "navs": [
+    {
+      "linkUrl": "https://suning.m.tmall.com/?refer=https%3A%2F%2Fwww.tmall.com%2F&pos=1&acm=201704071.1003.64.1699747&scm=1003.64.201704071.OTHER_1547149173937_1699747&spm=a211ue.11501597.icon.1",
+      "picUrl": "https://gw.alicdn.com/tfs/TB1ISdWSFXXXXbFXXXXXXXXXXXX-146-147.png_110x10000.jpg_.webp",
+      "text": "苏宁易购"
+    },
+    {
+      "linkUrl": "https://chaoshi.m.tmall.com/?pos=2&acm=201704071.1003.64.1699747&_ig=shoumao&scm=1003.64.201704071.OTHER_1545931209467_1699747&spm=a211ue.11501597.icon.2",
+      "picUrl": "https://gw.alicdn.com/tfs/TB1wSoFa5qAXuNjy1XdXXaYcVXa-196-196.png?avatar=1_110x10000.jpg_.webp",
+      "text": "天猫超市"
+    },
+    {
+      "linkUrl": "https://pages.tmall.com/wow/jinkou/act/zhiyingchaoshi?from=zebra:offline",
+      "picUrl": "https://gw.alicdn.com/tfs/TB1Jc0fSFXXXXXTapXXXXXXXXXX-146-147.png_110x10000.jpg_.webp",
+      "text": "天猫国际"
+    },
+    {
+      "linkUrl": "https://jhs.m.taobao.com/m/index.htm",
+      "picUrl": "https://gw.alicdn.com/tfs/TB15lhOSFXXXXaKXpXXXXXXXXXX-147-147.png_110x10000.jpg_.webp",
+      "text": "聚划算"
+    },
+    {
+      "linkUrl": "https://pages.tmall.com/wow/list/act/list-classify-new?pos=5&acm=201704071.1003.64.1699747&scm=1003.64.201704071.OTHER_1547681032767_1699747&spm=a211ue.11501597.icon.5",
+      "picUrl": "https://gw.alicdn.com/tfs/TB12CFXSFXXXXcpapXXXXXXXXXX-146-147.png_110x10000.jpg_.webp",
+      "text": "分类"
+    }
+  ]
+}
