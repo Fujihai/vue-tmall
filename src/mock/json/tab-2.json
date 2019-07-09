@@ -1,0 +1,452 @@
+{
+  "code": 0,
+  "contents": [
+    {
+      "type": "brand_classify",
+      "title": "品牌分类",
+      "items": [
+        {
+          "trackInfo": "",
+          "id": "1",
+          "title": "数码品牌类目",
+          "items": [
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1LoEFIVXXXXanXVXXSutbFXXX.jpg",
+              "itemId": "592153558043",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A592153558043%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___592153558043%3A8%3A0.00000%3A0%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A39591%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=39591&itemId=592153558043&itemIds=592153558043&scm=1007.12144.91449.1491025_0_0",
+              "title": "金正电器旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1qSEkspGWBuNjy0FbXXb4sXXa",
+              "itemId": "589630419230",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A589630419230%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___589630419230%3A8%3A0.00000%3A1%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A184048021%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=184048021&itemId=589630419230&itemIds=589630419230&scm=1007.12144.91449.1491025_0_0",
+              "title": "ThinkPad官方旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1r.EsIVXXXXX1aXXXSutbFXXX.jpg",
+              "itemId": "559309101253",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A559309101253%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___559309101253%3A8%3A0.00000%3A2%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A41263%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=41263&itemId=559309101253&itemIds=559309101253&scm=1007.12144.91449.1491025_0_0",
+              "title": "HKC官方旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1Wl5FJVXXXXbiXVXXSutbFXXX.jpg",
+              "itemId": "546519634040",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A546519634040%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___546519634040%3A8%3A0.00000%3A3%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A32477%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=32477&itemId=546519634040&itemIds=546519634040&scm=1007.12144.91449.1491025_0_0",
+              "title": "天逸影音旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1_5D5qr5YBuNjSspoXXbeNFXa",
+              "itemId": "548372130187",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A548372130187%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___548372130187%3A8%3A0.00000%3A4%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A31897%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=31897&itemId=548372130187&itemIds=548372130187&scm=1007.12144.91449.1491025_0_0",
+              "title": "manfrotto曼富图旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1v6uwox1YBuNjy1zcXXbNcXXa",
+              "itemId": "570019539353",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A570019539353%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___570019539353%3A8%3A0.00000%3A5%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A33551%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=33551&itemId=570019539353&itemIds=570019539353&scm=1007.12144.91449.1491025_0_0",
+              "title": "Garmin佳明官方旗舰店"
+            }
+          ]
+        },
+        {
+          "trackInfo": "",
+          "id": "2",
+          "title": "美妆品牌类目",
+          "items": [
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/i4/T1eElTXcltXXb1upjX.jpg",
+              "itemId": "572514743405",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A572514743405%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___572514743405%3A8%3A0.00000%3A6%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A7032774%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=7032774&itemId=572514743405&itemIds=572514743405&scm=1007.12144.91449.1491025_0_0",
+              "title": "jacadi母婴海外旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1bMakQVXXXXaUXpXXSutbFXXX.jpg",
+              "itemId": "540391522946",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A540391522946%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___540391522946%3A8%3A0.00000%3A7%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A342724232%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=342724232&itemId=540391522946&itemIds=540391522946&scm=1007.12144.91449.1491025_0_0",
+              "title": "euphidra海外旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1JvTzySzqK1RjSZPcXXbTepXa",
+              "itemId": "586505835562",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A586505835562%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___586505835562%3A8%3A0.00000%3A8%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A20096%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=20096&itemId=586505835562&itemIds=586505835562&scm=1007.12144.91449.1491025_0_0",
+              "title": "SHISEIDO资生堂官方旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1sFCpSVXXXXcjaXXXXXXXXXXX",
+              "itemId": "538455466090",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A538455466090%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___538455466090%3A8%3A0.00000%3A9%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A236526597%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=236526597&itemId=538455466090&itemIds=538455466090&scm=1007.12144.91449.1491025_0_0",
+              "title": "jillstuart官方旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1IyR3KVXXXXXZaXXXSutbFXXX.jpg",
+              "itemId": "40590203808",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A40590203808%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___40590203808%3A8%3A0.00000%3A10%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A104698372%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=104698372&itemId=40590203808&itemIds=40590203808&scm=1007.12144.91449.1491025_0_0",
+              "title": "SHO-BI妆美堂旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1Uz0JIVXXXXaZXVXXSutbFXXX.jpg",
+              "itemId": "568095946862",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A568095946862%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___568095946862%3A8%3A0.00000%3A11%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A6589569%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=6589569&itemId=568095946862&itemIds=568095946862&scm=1007.12144.91449.1491025_0_0",
+              "title": "solone旗舰店"
+            }
+          ]
+        },
+        {
+          "trackInfo": "",
+          "id": "3",
+          "title": "内衣品牌类目",
+          "items": [
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1lmlBNVXXXXXEaXXXSutbFXXX.jpg",
+              "itemId": "8083157470",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A8083157470%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___8083157470%3A8%3A0.00000%3A12%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A75161794%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=75161794&itemId=8083157470&itemIds=8083157470&scm=1007.12144.91449.1491025_0_0",
+              "title": "mochihada旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1Cl2lDHGYBuNjy0FoSuwiBFXa.jpg",
+              "itemId": "580828722744",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A580828722744%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___580828722744%3A8%3A0.00000%3A13%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A3307674%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=3307674&itemId=580828722744&itemIds=580828722744&scm=1007.12144.91449.1491025_0_0",
+              "title": "AgentProvocateur海外旗舰"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1eoh8RXXXXXb8XpXXXXXXXXXX",
+              "itemId": "522965538354",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A522965538354%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___522965538354%3A8%3A0.00000%3A14%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A3498607%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=3498607&itemId=522965538354&itemIds=522965538354&scm=1007.12144.91449.1491025_0_0",
+              "title": "爱美菲露旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1MW9kJXXXXXbLXXXXSutbFXXX.jpg",
+              "itemId": "521231164592",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A521231164592%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___521231164592%3A8%3A0.00000%3A15%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A3424439%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=3424439&itemId=521231164592&itemIds=521231164592&scm=1007.12144.91449.1491025_0_0",
+              "title": "wolford旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1ilVthr_I8KJjy1Xawu2sxpXa.png",
+              "itemId": "590156789475",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A590156789475%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___590156789475%3A8%3A0.00000%3A16%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A3288739%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=3288739&itemId=590156789475&itemIds=590156789475&scm=1007.12144.91449.1491025_0_0",
+              "title": "StellaMcCartney官方旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1QljoJFXXXXXMaXXXSutbFXXX.jpg",
+              "itemId": "594745148040",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A594745148040%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___594745148040%3A8%3A0.00000%3A17%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A10810978%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=10810978&itemId=594745148040&itemIds=594745148040&scm=1007.12144.91449.1491025_0_0",
+              "title": "gelatopique旗舰店"
+            }
+          ]
+        },
+        {
+          "trackInfo": "",
+          "id": "4",
+          "title": "手表品牌类目",
+          "items": [
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1IyHNHpXXXXaBXFXXSutbFXXX.jpg",
+              "itemId": "589425478741",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A589425478741%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___589425478741%3A8%3A0.00000%3A18%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A28003%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=28003&itemId=589425478741&itemIds=589425478741&scm=1007.12144.91449.1491025_0_0",
+              "title": "suunto颂拓官方旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1dKO2RVXXXXXbXVXXXXXXXXXX",
+              "itemId": "563433423702",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A563433423702%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___563433423702%3A8%3A0.00000%3A19%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A20022%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=20022&itemId=563433423702&itemIds=563433423702&scm=1007.12144.91449.1491025_0_0",
+              "title": "Calvin Klein官方旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1PJHad_lYBeNjSszcXXbwhFXa",
+              "itemId": "553859680986",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A553859680986%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___553859680986%3A8%3A0.00000%3A20%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A3268128%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=3268128&itemId=553859680986&itemIds=553859680986&scm=1007.12144.91449.1491025_0_0",
+              "title": "nomos官方旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1ipL2X4SYBuNjSsphXXbGvVXa",
+              "itemId": "580105634325",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A580105634325%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___580105634325%3A8%3A0.00000%3A21%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A3359122%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=3359122&itemId=580105634325&itemIds=580105634325&scm=1007.12144.91449.1491025_0_0",
+              "title": "marvin官方旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1Q01Mm8fH8KJjy1XbXXbLdXXa",
+              "itemId": "589631645787",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A589631645787%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___589631645787%3A8%3A0.00000%3A22%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A46465%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=46465&itemId=589631645787&itemIds=589631645787&scm=1007.12144.91449.1491025_0_0",
+              "title": "西铁城手表旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1GVTImxrI8KJjy0FpXXb5hVXa",
+              "itemId": "598026679239",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A598026679239%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___598026679239%3A8%3A0.00000%3A23%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A3717136%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=3717136&itemId=598026679239&itemIds=598026679239&scm=1007.12144.91449.1491025_0_0",
+              "title": "bulova宝路华手表旗舰店"
+            }
+          ]
+        },
+        {
+          "trackInfo": "",
+          "id": "5",
+          "title": "珠宝品牌类目",
+          "items": [
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1qK6GGVXXXXX4apXXwu0bFXXX.png",
+              "itemId": "575346397161",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A575346397161%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___575346397161%3A8%3A0.00000%3A24%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A18356403%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=18356403&itemId=575346397161&itemIds=575346397161&scm=1007.12144.91449.1491025_0_0",
+              "title": "心之源旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1mOj.MXXXXXciXXXXSutbFXXX.jpg",
+              "itemId": "524843892859",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A524843892859%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___524843892859%3A8%3A0.00000%3A25%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A216278726%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=216278726&itemId=524843892859&itemIds=524843892859&scm=1007.12144.91449.1491025_0_0",
+              "title": "爱宝莉旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB109MAIVXXXXa_aXXXSutbFXXX.jpg",
+              "itemId": "551628279759",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A551628279759%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___551628279759%3A8%3A0.00000%3A26%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A4938233%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=4938233&itemId=551628279759&itemIds=551628279759&scm=1007.12144.91449.1491025_0_0",
+              "title": "楼上楼旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1YVYgOFXXXXafXXXXSutbFXXX.jpg",
+              "itemId": "574684034099",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A574684034099%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___574684034099%3A8%3A0.00000%3A27%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A296026038%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=296026038&itemId=574684034099&itemIds=574684034099&scm=1007.12144.91449.1491025_0_0",
+              "title": "宝亨达珠宝旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1BLMDIFXXXXXvXpXXSutbFXXX.jpg",
+              "itemId": "571462860101",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A571462860101%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___571462860101%3A8%3A0.00000%3A28%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A190358306%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=190358306&itemId=571462860101&itemIds=571462860101&scm=1007.12144.91449.1491025_0_0",
+              "title": "gemstoneking海外旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1f2x9s2iSBuNkSnhJXXbDcpXa",
+              "itemId": "587124307823",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A587124307823%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___587124307823%3A8%3A0.00000%3A29%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A8961326%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=8961326&itemId=587124307823&itemIds=587124307823&scm=1007.12144.91449.1491025_0_0",
+              "title": "bloves珠宝旗舰店"
+            }
+          ]
+        },
+        {
+          "trackInfo": "",
+          "id": "6",
+          "title": "配饰品牌类目",
+          "items": [
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB18KlYm3LD8KJjSszeXXaGRpXa",
+              "itemId": "566546271110",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A566546271110%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___566546271110%3A8%3A0.00000%3A30%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A115283%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=115283&itemId=566546271110&itemIds=566546271110&scm=1007.12144.91449.1491025_0_0",
+              "title": "MARNI官方旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1qMnmDHGYBuNjy0FoSuwiBFXa.jpg",
+              "itemId": "587390555992",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A587390555992%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___587390555992%3A8%3A0.00000%3A31%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A45314%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=45314&itemId=587390555992&itemIds=587390555992&scm=1007.12144.91449.1491025_0_0",
+              "title": "银泰百货精品旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1D8PKHpXXXXanaXXXSutbFXXX.jpg",
+              "itemId": "567293337761",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A567293337761%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___567293337761%3A8%3A0.00000%3A32%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A6150183%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=6150183&itemId=567293337761&itemIds=567293337761&scm=1007.12144.91449.1491025_0_0",
+              "title": "登路普旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1LUIvmZnI8KJjSsziXXb8QpXa",
+              "itemId": "590837833154",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A590837833154%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___590837833154%3A8%3A0.00000%3A33%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A46864%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=46864&itemId=590837833154&itemIds=590837833154&scm=1007.12144.91449.1491025_0_0",
+              "title": "恒源祥旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1zSrImsnI8KJjSsziXXb8QpXa",
+              "itemId": "12611316683",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A12611316683%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___12611316683%3A8%3A0.00000%3A34%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A41657%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=41657&itemId=12611316683&itemIds=12611316683&scm=1007.12144.91449.1491025_0_0",
+              "title": "ECCO爱步官方旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB153bVgSzqK1RjSZPcXXbTepXa",
+              "itemId": "586358763686",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A586358763686%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___586358763686%3A8%3A0.00000%3A35%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A108798%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=108798&itemId=586358763686&itemIds=586358763686&scm=1007.12144.91449.1491025_0_0",
+              "title": "巧帛旗舰店"
+            }
+          ]
+        },
+        {
+          "trackInfo": "",
+          "id": "7",
+          "title": "包袋品牌类目",
+          "items": [
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1ssgeLVXXXXbJXXXXSutbFXXX.jpg",
+              "itemId": "583787739665",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A583787739665%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___583787739665%3A8%3A0.00000%3A36%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A4398281%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=4398281&itemId=583787739665&itemIds=583787739665&scm=1007.12144.91449.1491025_0_0",
+              "title": "卓凡尼华伦天奴箱包旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB14dFcIVXXXXbHXpXXSutbFXXX.jpg",
+              "itemId": "520530458800",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A520530458800%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___520530458800%3A8%3A0.00000%3A37%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A11359816%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=11359816&itemId=520530458800&itemIds=520530458800&scm=1007.12144.91449.1491025_0_0",
+              "title": "samanthathavasa旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1wgtdEMaTBuNjSszfSutgfpXa.jpg",
+              "itemId": "597621196509",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A597621196509%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___597621196509%3A8%3A0.00000%3A38%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A47811546%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=47811546&itemId=597621196509&itemIds=597621196509&scm=1007.12144.91449.1491025_0_0",
+              "title": "怀轩旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1WJZWIVXXXXb2XXXXSutbFXXX.jpg",
+              "itemId": "521664430600",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A521664430600%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___521664430600%3A8%3A0.00000%3A39%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A65133820%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=65133820&itemId=521664430600&itemIds=521664430600&scm=1007.12144.91449.1491025_0_0",
+              "title": "doubledutchclub旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1d.oenZLJ8KJjy0FnXXcFDpXa",
+              "itemId": "544046863352",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A544046863352%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___544046863352%3A8%3A0.00000%3A40%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A6666024%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=6666024&itemId=544046863352&itemIds=544046863352&scm=1007.12144.91449.1491025_0_0",
+              "title": "lollipops旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1tjQYJXXXXXcVXFXXSutbFXXX.jpg",
+              "itemId": "573532816552",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A573532816552%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___573532816552%3A8%3A0.00000%3A41%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A106567755%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=106567755&itemId=573532816552&itemIds=573532816552&scm=1007.12144.91449.1491025_0_0",
+              "title": "inuk旗舰店"
+            }
+          ]
+        },
+        {
+          "trackInfo": "",
+          "id": "8",
+          "title": "鞋履品牌类目",
+          "items": [
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1jWUBIVXXXXaYaXXXSutbFXXX.jpg",
+              "itemId": "565903533543",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A565903533543%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___565903533543%3A8%3A0.00000%3A42%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A31135854%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=31135854&itemId=565903533543&itemIds=565903533543&scm=1007.12144.91449.1491025_0_0",
+              "title": "TUK旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1Wih7k29TBuNjy0FcXXbeiFXa",
+              "itemId": "569298442306",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A569298442306%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___569298442306%3A8%3A0.00000%3A43%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A18981407%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=18981407&itemId=569298442306&itemIds=569298442306&scm=1007.12144.91449.1491025_0_0",
+              "title": "EMUaustralia海外旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1Qk48cmtYBeNjSspaXXaOOFXa",
+              "itemId": "597685988468",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A597685988468%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___597685988468%3A8%3A0.00000%3A44%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A29495%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=29495&itemId=597685988468&itemIds=597685988468&scm=1007.12144.91449.1491025_0_0",
+              "title": "真维斯官方旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1NLT.msjI8KJjSsppXXXbyVXa",
+              "itemId": "594555812878",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A594555812878%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___594555812878%3A8%3A0.00000%3A45%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A3548335%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=3548335&itemId=594555812878&itemIds=594555812878&scm=1007.12144.91449.1491025_0_0",
+              "title": "havaianas官方旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB10mqMRXXXXXaSXpXXXXXXXXXX",
+              "itemId": "521203960823",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A521203960823%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___521203960823%3A8%3A0.00000%3A46%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A640564913%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=640564913&itemId=521203960823&itemIds=521203960823&scm=1007.12144.91449.1491025_0_0",
+              "title": "oxs旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1kAXOIpXXXXaqXpXXwu0bFXXX.png",
+              "itemId": "597279501596",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A597279501596%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___597279501596%3A8%3A0.00000%3A47%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A3624902%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=3624902&itemId=597279501596&itemIds=597279501596&scm=1007.12144.91449.1491025_0_0",
+              "title": "caesar凯撒大帝旗舰店"
+            }
+          ]
+        },
+        {
+          "trackInfo": "",
+          "id": "9",
+          "title": "服饰品牌类目",
+          "items": [
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/i1/1706222708/T2zjQyXJBXXXXXXXXX-1706222708.jpg",
+              "itemId": "585341865784",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A585341865784%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___585341865784%3A8%3A0.00000%3A48%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A4523115%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=4523115&itemId=585341865784&itemIds=585341865784&scm=1007.12144.91449.1491025_0_0",
+              "title": "魅力惠APP天猫旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/i2/1785908005/T2PS7xXF4XXXXXXXXX-1785908005.jpg",
+              "itemId": "593674110011",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A593674110011%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___593674110011%3A8%3A0.00000%3A49%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A3455167%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=3455167&itemId=593674110011&itemIds=593674110011&scm=1007.12144.91449.1491025_0_0",
+              "title": "天猫奢品官方直营"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1Yp52mnnI8KJjSszbXXb4KFXa",
+              "itemId": "596734844723",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A596734844723%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___596734844723%3A8%3A0.00000%3A50%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A144043706%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=144043706&itemId=596734844723&itemIds=596734844723&scm=1007.12144.91449.1491025_0_0",
+              "title": "华菲型格官方旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1deO2m2DH8KJjy1XcXXcpdXXa",
+              "itemId": "548201714019",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A548201714019%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___548201714019%3A8%3A0.00000%3A51%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A1398514810%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=1398514810&itemId=548201714019&itemIds=548201714019&scm=1007.12144.91449.1491025_0_0",
+              "title": "mtsubomi旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB190OvbwmTBuNjy1XbXXaMrVXa",
+              "itemId": "587557419432",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A587557419432%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___587557419432%3A8%3A0.00000%3A52%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A3465911%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=3465911&itemId=587557419432&itemIds=587557419432&scm=1007.12144.91449.1491025_0_0",
+              "title": "REVIEW海外旗舰店"
+            },
+            {
+              "imgUrl": "//gw.alicdn.com/bao/uploaded/TB1SwP2s25TBuNjSspmXXaDRVXa",
+              "itemId": "577943416095",
+              "clickTrackInfo": "/sea.common.pic-----scm=1007.12144.91449.1491025_0_0&pvid=ef9a8695-b22f-4b14-8cc0-2228e5121366&utLogMap=%7B%22x_hestia_source%22%3A%221491025%22%2C%22x_object_type%22%3A%22industry_f%22%2C%22x_item_ids%22%3A577943416095%2C%22x_algo_paras%22%3A%221007.12144.91449.1491025_0_0%3Aef9a8695-b22f-4b14-8cc0-2228e5121366%3A0%3Adefault%3A-1%3A%3A%3Aexpo%3Aclk%3A___577943416095%3A8%3A0.00000%3A53%3A1491025%3A0.00000%3A0.00000%3A0.0%3A0.00000%3A0.0%3A0%3A0%3A0%3A0%3A0-0-0-0%3A0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A-0%3A1.00000-0.00000-0.00000-0.00000-0x0x0x1-0.00000%3Amock-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0%3A%22%2C%22x_hestia_flow%22%3A1491025%2C%22x_object_id%22%3A29470%7D-----GET",
+              "action": "https://market.m.taobao.com/apps/market/brandtab1111/brand-minisite-new.html?wh_weex=true&brandId=29470&itemId=577943416095&itemIds=577943416095&scm=1007.12144.91449.1491025_0_0",
+              "title": "波司登官方旗舰店"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

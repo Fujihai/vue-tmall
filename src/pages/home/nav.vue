@@ -4,7 +4,7 @@
       <li class="nav-item" v-for="(item, index) in navs" :key="index">
         <a :href="item.linkUrl" class="nav-link">
           <img :src="item.picUrl" class="nav-pic">
-          <span>{{item.text}}</span>
+          <span class="title">{{item.text}}</span>
         </a>
       </li>
     </ul>
@@ -60,6 +60,10 @@
     &-pic {
       width: 60%;
       margin-bottom: 8px;
+    }
+
+    .title {
+      font-size: 12px;
     }
   }
 </style>

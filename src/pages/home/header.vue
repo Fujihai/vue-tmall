@@ -2,8 +2,7 @@
   <me-navbar class="header">
     <i class="iconfont icon-category" slot="left"></i>
     <div class="search" slot="center">
-      <i class="iconfont icon-search"></i>
-      <span>搜索商品、品牌</span>
+      <i class="iconfont icon-search"></i><span class="hint">搜索商品、品牌</span>
     </div>
     <i class="iconfont icon-user" slot="right"></i>
   </me-navbar>
@@ -37,8 +36,16 @@
       padding: 8px 6px;
       border-radius: 3px;
 
+
       .icon-search {
         color: rgba(0, 0, 0, 0.3);
+      }
+
+      .hint {
+        font-size: 13px;
+        padding-left: 3px;
+        height: 26px;
+        line-height: 22px;
       }
     }
   }

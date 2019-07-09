@@ -11,6 +11,11 @@ export default new Router({
       component: () => import('pages/home')
     },
     {
+      path: '/category',
+      name: 'category',
+      component: () => import('pages/category')
+    },
+    {
       path: '*',
       redirect: '/home'
     }
