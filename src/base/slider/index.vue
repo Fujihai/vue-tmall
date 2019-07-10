@@ -9,7 +9,7 @@
   import {swiper} from 'vue-awesome-swiper';
 
   export default {
-    name: 'MeSlider',
+    name: 'Slider',
     components: {
       swiper
     },

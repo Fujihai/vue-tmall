@@ -1,6 +1,6 @@
 <template>
   <div>
-    <me-scroll>
+    <scroll>
       <ul class="tab">
         <li
           class="tab-item"
@@ -11,18 +11,18 @@
         ><span class="tab-item-text">{{item.name}}</span>
         </li>
       </ul>
-    </me-scroll>
+    </scroll>
   </div>
 </template>
 
 <script>
-  import MeScroll from 'base/scroll';
+  import Scroll from 'base/scroll';
   import {categoryNames} from './config';
 
   export default {
     name: 'CategoryTab',
     components: {
-      MeScroll
+      Scroll
     },
     data() {
       return {

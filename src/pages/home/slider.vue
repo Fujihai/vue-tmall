@@ -1,6 +1,6 @@
 <template>
   <div class="slider-wrapper">
-    <me-slider
+    <slider
       :direction="direction"
       :loop="loop"
       :interval="interval"
@@ -13,13 +13,13 @@
         <img :src="item.picUrl" alt="" class="slider-img">
       </a>
     </swiper-slide>
-  </me-slider>
+  </slider>
   </div>
 
 </template>
 
 <script>
-  import MeSlider from 'base/slider';
+  import Slider from 'base/slider';
   import {swiperSlide} from 'vue-awesome-swiper';
   import {sliderOptions} from './config';
   import {getHomeSlider} from 'api/home';
@@ -27,7 +27,7 @@
   export default {
     name: 'HomeSlider',
     components: {
-      MeSlider,
+      Slider,
       swiperSlide
     },
     data() {

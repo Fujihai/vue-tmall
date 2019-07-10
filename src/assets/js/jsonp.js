@@ -13,7 +13,7 @@ const parseParam = param => {
 export default (url, data, options) => {
   url += (url.indexOf('?') < 0 ? '?' : '') + parseParam(data);
 
-  console.log(url);
+  // console.log(url);
 
   return new Promise((resolve, reject) => {
     jsonp(url, options, (err, data) => {

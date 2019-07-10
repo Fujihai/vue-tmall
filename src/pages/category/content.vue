@@ -1,6 +1,6 @@
 <template>
   <div class="content-wrapper">
-    <me-scroll>
+    <scroll>
       <div class="content-list">
         <div class="section"
           v-for="(section, index) in contents"
@@ -19,18 +19,18 @@
           </div>
         </div>
       </div>
-    </me-scroll>
+    </scroll>
   </div>
 </template>
 
 <script>
-  import MeScroll from 'base/scroll';
+  import Scroll from 'base/scroll';
   import {getCategoryContent} from 'api/category';
 
   export default {
     name: 'CategoryContent',
     components: {
-      MeScroll
+      Scroll
     },
     props: {
       curId: {

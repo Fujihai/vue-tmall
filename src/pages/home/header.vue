@@ -1,20 +1,38 @@
 <template>
-  <me-navbar class="header">
+  <navbar class="header">
     <i class="iconfont icon-category" slot="left"></i>
-    <div class="search" slot="center">
+    <!-- <div class="search" slot="center">
       <i class="iconfont icon-search"></i><span class="hint">搜索商品、品牌</span>
-    </div>
+    </div> -->
+    <search-box
+      placeholder="搜索商品、品牌"
+      slot="center"
+      fake
+      @query="getQuery"
+      @click.native="goToSearch"
+    />
     <i class="iconfont icon-user" slot="right"></i>
-  </me-navbar>
+  </navbar>
 </template>
 
 <script>
-  import MeNavbar from 'base/navbar';
+  import Navbar from 'base/navbar';
+  import SearchBox from 'base/search-box';
 
   export default {
     name: 'HomeHeader',
     components: {
-      MeNavbar
+      Navbar,
+      SearchBox
+    },
+    methods: {
+      getQuery(query) {
+        console.log(query);
+      },
+      goToSearch() {
+        console.log('to search-page');
+        this.$router.push('/search');
+      }
     }
   };
 </script>
@@ -23,7 +41,7 @@
   @import "~assets/scss/mixins";
 
   .header {
-    background-color: transparent;
+    background-color: #FF0036;
 
     .iconfont {
       color: $icon-color-default;

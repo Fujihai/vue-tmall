@@ -1,20 +1,20 @@
 <template>
-  <me-navbar class="header">
+  <navbar class="header">
     <i class="iconfont icon-left-arrow" slot="left"></i>
     <div class="search" slot="center">
       <i class="iconfont icon-search"></i>
       <span class="hint">搜索商品/品牌</span>
     </div>
-  </me-navbar>
+  </navbar>
 </template>
 
 <script>
-  import MeNavbar from 'base/navbar';
+  import Navbar from 'base/navbar';
 
   export default {
     name: 'CategoryHeader',
     components: {
-      MeNavbar
+      Navbar
     }
   };
 </script>
@@ -23,7 +23,7 @@
   @import "~assets/scss/mixins";
 
   .header {
-    &.mine-navbar {
+    &.navbar {
       background-color: $bgc-theme;
     }
 

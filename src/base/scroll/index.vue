@@ -11,7 +11,7 @@
   import {swiper, swiperSlide} from 'vue-awesome-swiper';
 
   export default{
-    name: 'MeScroll',
+    name: 'Scroll',
     components: {
       swiper,
       swiperSlide

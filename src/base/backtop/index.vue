@@ -1,7 +1,7 @@
 <template>
-  <transition name="mine-backtop">
+  <transition name="backtop">
     <a href="javascript:;"
-      class="mine-backtop"
+      class="backtop"
       v-show="visible"
       @click="backToTop"
     >
@@ -12,7 +12,7 @@
 
 <script>
   export default {
-    name: 'MeBacktop',
+    name: 'Backtop',
     props: {
       visible: {
         type: Boolean,
@@ -30,7 +30,7 @@
 <style lang="scss" scoped>
   @import "~assets/scss/mixins";
 
-  .mine-backtop {
+  .backtop {
     overflow: hidden;
     @include flex-center();
     width: 45px;
@@ -44,7 +44,7 @@
     }
   }
 
-  .mine-backtop {
+  .backtop {
     &-enter-active,
     &-leave-active {
       transition: opacity 0.4s;

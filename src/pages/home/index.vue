@@ -4,7 +4,7 @@
       <home-header/>
     </header>
 
-     <me-scroll
+     <scroll
       :data="recommends"
       @scroll-end="scrollEnd"
       ref="scroll"
@@ -13,17 +13,17 @@
        <home-slider/>
        <home-ad/>
        <home-recommend @loaded="getRecommends"/>
-     </me-scroll>
+     </scroll>
 
     <div class="g-backtop-container">
-      <me-backtop :visible="isBacktopVisible" @backtop="backToTop"/>
+      <backtop :visible="isBacktopVisible" @backtop="backToTop"/>
     </div>
   </div>
 </template>
 
 <script>
-  import MeScroll from 'base/scroll';
-  import MeBacktop from 'base/backtop';
+  import Scroll from 'base/scroll';
+  import Backtop from 'base/backtop';
   import HomeHeader from './header';
   import HomeSlider from './slider';
   import HomeNav from './nav';
@@ -33,10 +33,10 @@
   export default {
     name: 'home',
     components: {
+      Scroll,
+      Backtop,
       HomeHeader,
       HomeSlider,
-      MeScroll,
-      MeBacktop,
       HomeNav,
       HomeAd,
       HomeRecommend
