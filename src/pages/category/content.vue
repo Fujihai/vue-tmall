@@ -42,7 +42,7 @@
       return {
         contents: {},
         isBacktopVisible: false
-      };
+      }; 
     },
     watch: {
       curId(id) {

@@ -52,7 +52,20 @@
           slidesPerView: 1, //每个 slider 容器能够同时显示的 slides 数量
           loop: this.loop,
           pagination: {
-            el: this.pagination ? '.swiper-pagination' : null
+            el: this.pagination ? '.swiper-pagination' : null,
+            type: 'custom',
+            renderCustom: function (swiper, current, total) {
+              let resHtml = '';
+              let baseBulletStyle = 'display:inline-block;margin:0 2px;height:2px;width:18px;border:none;';
+              const bulletNormal = 'background-color:#85746D;opacity:.3;';
+              const bulletActive = 'background-color:#ffffff;opacity:1;';
+              let bulletStatusStyle = '';
+              for(let i = 1; i <= total; i++) {
+                bulletStatusStyle = i === current ? bulletActive : bulletNormal;
+                resHtml += `<span class="swiper-pagination-custom" style='${baseBulletStyle}${bulletStatusStyle}'></span>`;
+              }
+              return resHtml;
+            },
           }
         }
       };

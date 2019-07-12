@@ -40,7 +40,7 @@
 
     .iconfont {
       color:#5A5A5A;
-      font-size: 38px;
+      font-size: 44px;
     }
   }
 

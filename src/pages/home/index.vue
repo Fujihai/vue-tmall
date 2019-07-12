@@ -47,11 +47,6 @@
         isBacktopVisible: false
       };
     },
-    // created() {
-    //   setTimeout(() => {
-    //     this.isBacktopVisible = true;
-    //   }, 1000);
-    // },
     methods: {
       updateScroll() {
 
@@ -60,7 +55,6 @@
         this.recommends = recommends;
       },
       scrollEnd(translate, scroll){
-        // console.log('超过一屏，显示滚动条。');
         // translate 是往下滚动
         this.isBacktopVisible = translate < 0 && -translate  > scroll.height;
       },

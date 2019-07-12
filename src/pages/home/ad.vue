@@ -15,7 +15,6 @@
 <style lang="scss" scoped>
   img{
     width: 100%;
-    height: 180px;
     margin: 8px auto 0px auto;
   }
 </style>

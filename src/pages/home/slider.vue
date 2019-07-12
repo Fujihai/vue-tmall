@@ -54,8 +54,8 @@
 
 <style lang="scss" scoped>
   .slider-wrapper{
-    width: 351px;
-    height: 131px;
+    width: 93%;
+    height: 132px;
     margin: 0 auto;
     border-radius: 10px;
   }
