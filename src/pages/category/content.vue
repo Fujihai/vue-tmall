@@ -1,7 +1,7 @@
 <template>
   <div class="content-wrapper">
     <scroll>
-      <div class="content-list">
+      <div class="content-list" v-if="contents.length">
         <div class="section"
           v-for="(section, index) in contents"
           :key="index">
@@ -19,6 +19,7 @@
           </div>
         </div>
       </div>
+      <div class="no-content-hint" v-if="!contents.length">暂无数据!</div>
     </scroll>
   </div>
 </template>
@@ -42,7 +43,7 @@
       return {
         contents: {},
         isBacktopVisible: false
-      }; 
+      };
     },
     watch: {
       curId(id) {
@@ -119,6 +120,12 @@
           @include multiline-ellipsis();
         }
       }
+    }
+
+    .no-content-hint {
+      width: 100%;
+      height: 100%;
+      @include flex-center(column);
     }
   }
 </style>

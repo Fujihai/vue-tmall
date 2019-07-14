@@ -1,20 +1,29 @@
 <template>
   <navbar class="header">
     <i class="iconfont icon-left-arrow" slot="left"></i>
-    <div class="search" slot="center">
-      <i class="iconfont icon-search"></i>
-      <span class="hint">搜索商品/品牌</span>
-    </div>
+    <search-box
+      class="search"
+      placeholder="搜索商品、品牌"
+      slot="center"
+      @click.native="goToSearch"
+    />
   </navbar>
 </template>
 
 <script>
   import Navbar from 'base/navbar';
+  import SearchBox from 'base/search-box';
 
   export default {
     name: 'CategoryHeader',
     components: {
-      Navbar
+      Navbar,
+      SearchBox
+    },
+    methods: {
+      goToSearch() {
+        this.$router.push('/search');
+      }
     }
   };
 </script>
@@ -41,13 +50,6 @@
       padding: 8px;
       background: #F2F2F2;
       border-radius: 16px;
-
-      .hint {
-        font-size: 12px;
-        padding-left: 3px;
-        height: 20px;
-        line-height: 18px;
-      }
     }
   }
 </style>

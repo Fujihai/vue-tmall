@@ -6,7 +6,11 @@ export const getCategoryContent = (id) => {
     timeout: TIMEOUT
   }).then(res => {
     if(res.data.code === SUCC_CODE) {
-      return res.data.contents[0].items;
+      if(res.data.contents[0].items) {
+        return res.data.contents[0].items;
+      }else{
+        return res.data.contents;
+      }
     }
 
     throw new Error('没有成功获取到数据！');

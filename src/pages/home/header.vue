@@ -1,9 +1,9 @@
 <template>
   <navbar class="header">
-    <i class="iconfont icon-category" slot="left"></i>
-    <!-- <div class="search" slot="center">
-      <i class="iconfont icon-search"></i><span class="hint">搜索商品、品牌</span>
-    </div> -->
+    <i
+      class="iconfont icon-category"
+      slot="left"
+      @click="goToCategory"></i>
     <search-box
       placeholder="搜索商品、品牌"
       slot="center"
@@ -30,8 +30,10 @@
         console.log(query);
       },
       goToSearch() {
-        console.log('to search-page');
         this.$router.push('/search');
+      },
+      goToCategory() {
+        this.$router.push('/category');
       }
     }
   };
