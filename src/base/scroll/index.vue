@@ -49,6 +49,8 @@
             el: this.scrollbar ? '.swiper-scrollbar' : null,
             hide: true            //自动隐藏
           },
+          observer:true,
+          observeParents:true,
           on: {
             sliderMove: this.scroll,      // 滚动过程中
             transitionEnd: this.scrollEnd // 滚动过程停止触发的事件
@@ -68,7 +70,7 @@
       scrollEnd() {
         // 触发 scroll-end 事件，携带参数 translate 及 swiper 对象
         this.$emit('scroll-end', this.$refs.swiper.swiper.translate, this.$refs.swiper.swiper, this.pulling);
-      },
+      }
     }
   };
 </script>

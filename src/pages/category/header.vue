@@ -1,6 +1,10 @@
 <template>
   <navbar class="header">
-    <i class="iconfont icon-left-arrow" slot="left"></i>
+    <i
+      class="iconfont icon-left-arrow"
+      slot="left"
+      @click="backToHome"
+    ></i>
     <search-box
       class="search"
       placeholder="搜索商品、品牌"
@@ -23,6 +27,11 @@
     methods: {
       goToSearch() {
         this.$router.push('/search');
+      },
+      backToHome() {
+        window.history.length > 1
+          ? this.$router.go(-1)
+          : this.$router.push('/');
       }
     }
   };

@@ -127,6 +127,10 @@
       height: 100%;
       @include flex-center(column);
     }
+
+    .swiper-container {
+      height: calc(100vh - 50px) !important;
+    }
   }
 </style>
 

@@ -1,6 +1,8 @@
 <template>
   <div>
-    <scroll>
+    <scroll
+      :data="items"
+      @scroll-end="scrollEnd">
       <ul class="tab">
         <li
           class="tab-item"
@@ -44,6 +46,9 @@
         }
         this.curId = id;
         this.$emit('switch-tab', id);
+      },
+      scrollEnd() {
+        // console.log('Tab:滚动到底部！');
       }
     }
   };
@@ -53,10 +58,6 @@
   @import "~assets/scss/mixins";
 
   $tab-item-height: 60px;
-
-  .swiper-container{
-    margin-top: 50px;
-  }
 
   .tab {
     width: 100%;
@@ -88,6 +89,10 @@
         background-color: #FFF;
       }
     }
+  }
+
+  .swiper-container {
+    height: calc(100vh - 50px) !important;
   }
 </style>
 

@@ -50,6 +50,11 @@
   }
 
   .g-content-container {
+    position: absolute;
+    left: 0;
+    top: 50px;
+    z-index: 100;
+    width: 100%;
     display: flex;
   }
 
@@ -61,6 +66,5 @@
   .main {
     flex: 1;
     height: 100%;
-    margin-top: 50px;
   }
 </style>
