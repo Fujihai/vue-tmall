@@ -5,7 +5,9 @@
         class="s-list-item"
         v-for="(item, index) in results"
         :key="index">
-        <a :href="shopUrl" class="s-list-text">{{item[0]}}</a>
+        <a
+          class="s-list-text"
+          @click="_$selectItem(item[0])">{{item[0]}}</a>
       </li>
     </ul>
   </div>
@@ -13,9 +15,11 @@
 
 <script>
   import {getSearchResult} from 'api/search';
+  import {searchMixin} from 'assets/js/mixins';
 
   export default {
     name: 'SearchResult',
+    mixins: [searchMixin],
     data() {
       return {
         results: [],
@@ -42,8 +46,6 @@
         getSearchResult(keyword).then(data => {
           if(data) {
             this.results = data.result;
-            this.shopUrl = data.shop_info[0].shop_url;
-            console.log(data);
           }
         });
       }

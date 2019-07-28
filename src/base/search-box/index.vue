@@ -88,9 +88,9 @@
       background: none;
       border: none;
       margin: 0 6px;
-      color: #E4E4E4;
+      color: #A1A1A1;
       line-height: 1.5;
       font-size: 12px;
-    }
+  }
 </style>
 

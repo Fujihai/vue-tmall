@@ -8,6 +8,7 @@ $border-color: #e5e5e5;
 
 // bgc
 $bgc-theme: #ffffff;
+$modal-bgc: rgba(0, 0, 0, 0.4);
 
 // font-size
 $font-size-base: 12px;
@@ -16,6 +17,8 @@ $icon-font-size: 18px;
 // z-index
 $navbar-z-index: 90;
 $backtop-z-index: 90;
+$search-z-index: 100;
+$search-popup-z-index: $search-z-index + 10;
 
 // size
 

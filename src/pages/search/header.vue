@@ -29,11 +29,13 @@
 
 <style lang="scss" scoped>
   .header {
-    background-color: #000;
+    background-color: #fff;
+    border-bottom: 1px solid  #F7F7F7;
 
     .search {
       border-radius: 1px;
       color: #333;
+      background: #F7F7F7;
     }
   }
 </style>
